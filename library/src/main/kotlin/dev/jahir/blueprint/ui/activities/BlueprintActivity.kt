@@ -131,10 +131,7 @@ abstract class BlueprintActivity : FramesActivity(), RequestCallback {
             val kustomCount =
                 components.filter { it.type != Component.Type.ZOOPER && it.type != Component.Type.UNKNOWN }.size
             val zooperCount = components.filter { it.type == Component.Type.ZOOPER }.size
-            homeFragment?.updateKustomCount(kustomCount)
-            homeViewModel?.postKustomCount(kustomCount)
-            homeFragment?.updateZooperCount(zooperCount)
-            homeViewModel?.postZooperCount(zooperCount)
+
         }
         iconsViewModel.observe(this) {
             iconsCategoriesFragment.updateItems(it)

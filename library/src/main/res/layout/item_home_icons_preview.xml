@@ -11,6 +11,7 @@
     app:cardBackgroundColor="@color/transparent"
     app:cardElevation="0dp"
     app:cardMaxElevation="0dp"
+    app:cardCornerRadius="@dimen/cards_corner_size"
     app:cardPreventCornerOverlap="false"
     app:shapeAppearanceOverlay="@style/ShapeAppearance.Blueprint.IconsPreview">
 

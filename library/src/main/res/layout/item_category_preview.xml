@@ -4,16 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="vertical">
+    android:background="@drawable/background_square"
+    android:orientation="vertical"
+    android:layout_marginHorizontal="16dp"
+    android:layout_marginBottom="16dp">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <include
-            android:id="@+id/divider_layout"
-            layout="@layout/item_divider" />
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -34,7 +35,7 @@
                 android:paddingEnd="16dp"
                 android:textColor="?colorSecondary"
                 app:firstBaselineToTopHeight="36sp"
-                app:lastBaselineToBottomHeight="20sp"
+                app:lastBaselineToBottomHeight="16sp"
                 tools:text="Subheader" />
 
             <com.google.android.material.textview.MaterialTextView
@@ -47,7 +48,7 @@
                 android:paddingStart="20dp"
                 android:paddingEnd="20dp"
                 app:firstBaselineToTopHeight="36sp"
-                app:lastBaselineToBottomHeight="20sp"
+                app:lastBaselineToBottomHeight="16sp"
                 tools:text="@string/x_icons" />
 
             <androidx.appcompat.widget.AppCompatImageView
@@ -77,6 +78,7 @@
         android:clipToPadding="false"
         android:paddingStart="16dp"
         android:paddingEnd="16dp"
+        android:paddingBottom="16dp"
         tools:itemCount="4"
         tools:listitem="@layout/item_icon" />
 

@@ -24,12 +24,7 @@ class ApplyFragment : BaseFramesFragment<Pair<Launcher, Boolean>>() {
         val columnsCount = context?.integer(R.integer.launchers_columns_count, 3) ?: 3
         recyclerView?.layoutManager =
             GridLayoutManager(context, columnsCount, GridLayoutManager.VERTICAL, false)
-        recyclerView?.addItemDecoration(
-            GridDividerItemDecoration(context, GridLayoutManager.VERTICAL)
-        )
-        recyclerView?.addItemDecoration(
-            GridDividerItemDecoration(context, GridLayoutManager.HORIZONTAL)
-        )
+
         recyclerView?.adapter = launchersAdapter
         recyclerView?.setHasFixedSize(true)
         updateItems(Launcher.getSupportedLaunchers(context))

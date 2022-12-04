@@ -143,7 +143,7 @@ class HomeFragment : Fragment(R.layout.fragment_home), HomeItemsListener {
         adapter.actionsStyle = context?.integer(R.integer.home_actions_style, 1) ?: 1
         adapter.showOverview = context?.boolean(R.bool.show_overview, true) == true
         recyclerView?.adapter = adapter
-        recyclerView?.addItemDecoration(HomeGridSpacingItemDecoration(columnsCount, 8.dpToPx))
+        recyclerView?.addItemDecoration(HomeGridSpacingItemDecoration(columnsCount, 16.dpToPx))
         (activity as? BlueprintActivity)?.repostCounters()
     }
 
@@ -188,15 +188,7 @@ class HomeFragment : Fragment(R.layout.fragment_home), HomeItemsListener {
         setupContentBottomOffset()
     }
 
-    internal fun updateKustomCount(count: Int) {
-        adapter.kustomCount = count
-        setupContentBottomOffset()
-    }
 
-    internal fun updateZooperCount(count: Int) {
-        adapter.zooperCount = count
-        setupContentBottomOffset()
-    }
 
     override fun onIconsPreviewClicked() {
         super.onIconsPreviewClicked()

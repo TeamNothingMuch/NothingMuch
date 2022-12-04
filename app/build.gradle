@@ -39,9 +39,9 @@ android {
         checkReleaseBuilds true
         disable 'MissingTranslation', 'GoogleAppIndexingWarning'
     }
+    compileSdk 33
 
-    compileSdkVersion Versions.targetSdk
-    buildToolsVersion Versions.buildTools
+    buildToolsVersion '33.0.0'
 
     defaultConfig {
         buildConfigField("String", "ONESIGNAL_APP_ID", "\"$OneSignal.appId\"")
@@ -50,8 +50,8 @@ android {
                 onesignal_google_project_number: OneSignal.googleProjectNumber
         ]
         applicationId Blueprint.appId
-        minSdkVersion Versions.minSdk
-        targetSdkVersion Versions.targetSdk
+        minSdk 26
+        targetSdk 33
         versionCode Blueprint.version
         versionName Blueprint.versionName
         setProperty("archivesBaseName", applicationId + "-" + versionName)

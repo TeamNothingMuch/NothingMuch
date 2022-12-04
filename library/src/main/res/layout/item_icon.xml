@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dev.jahir.kuper.ui.widgets.SquaredImageView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/icon"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:foreground="?attr/selectableItemBackground"
     android:scaleType="centerCrop"
+    android:elevation="0dp"
+    app:elevation="0dp"
     tools:ignore="ContentDescription,UnusedAttribute"
     tools:srcCompat="@drawable/ic_na_launcher" />

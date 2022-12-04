@@ -94,27 +94,13 @@ class HomeAdapter(
             notifyDataSetChanged()
         }
 
-    var kustomCount: Int = 0
-        set(value) {
-            if (value == field) return
-            field = value
-            notifyDataSetChanged()
-        }
 
-    var zooperCount: Int = 0
-        set(value) {
-            if (value == field) return
-            field = value
-            notifyDataSetChanged()
-        }
 
     private val counters: List<Counter>
         get() = if (showOverview) {
             arrayOf(
                 IconsCounter(iconsCount),
-                WallpapersCounter(wallpapersCount),
-                KustomCounter(kustomCount),
-                ZooperCounter(zooperCount)
+                WallpapersCounter(wallpapersCount)
             ).filter { it.count > 0 }
         } else listOf()
 

@@ -155,8 +155,7 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
     fun observeCounters(owner: LifecycleOwner, fragment: HomeFragment? = null) {
         observeIconsCount(owner) { fragment?.updateIconsCount(it) }
         observeWallpapersCount(owner) { fragment?.updateWallpapersCount(it) }
-        observeKustomCount(owner) { fragment?.updateKustomCount(it) }
-        observeZooperCount(owner) { fragment?.updateZooperCount(it) }
+
     }
 
     fun repostCounters() {

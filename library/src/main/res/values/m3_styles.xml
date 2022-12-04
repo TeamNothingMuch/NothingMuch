@@ -20,6 +20,7 @@
         <item name="itemIconTint">@drawable/bottom_navigation_states</item>
         <item name="itemTextColor">@drawable/bottom_navigation_states</item>
         <item name="labelVisibilityMode">labeled</item>
+        <item name="elevation">0dp</item>
     </style>
 
     <style name="Widget.Blueprint.NavigationView.MaterialYou" parent="Widget.Frames.NavigationView.MaterialYou">
