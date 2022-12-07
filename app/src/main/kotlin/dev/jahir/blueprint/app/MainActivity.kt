@@ -1,6 +1,8 @@
 package dev.jahir.blueprint.app
 
 import com.github.javiersantos.piracychecker.PiracyChecker
+import com.noobies.nothingmuch.BuildConfig
+import com.noobies.nothingmuch.R
 import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
 
 class MainActivity : BottomNavigationBlueprintActivity() {
@@ -14,7 +16,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
     override fun amazonInstallsEnabled(): Boolean = false
     override fun checkLPF(): Boolean = true
     override fun checkStores(): Boolean = true
-    override val isDebug: Boolean = BuildConfig.DEBUG
+
 
     /**
      * This is your app's license key. Get yours on Google Play Dev Console.

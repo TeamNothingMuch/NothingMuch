@@ -9,4 +9,25 @@
     <item drawable="telegram_x_dym"/>
     <item drawable="recorder_dym"/>
     <item drawable="youtube_dym"/>
+    <item drawable="youtube_music_dym"/>
+    <item drawable="twitter_dym"/>
+    <item drawable="phone_dym"/>
+    <item drawable="gphoto_dym"/>
+    <item drawable="maps_dym"/>
+    <item drawable="discord_dym"/>
+    <item drawable="mdgram"/>
+    <item drawable="whatsapp_dym"/>
+    <item drawable="files_dym"/>
+    <item drawable="contacts_dym"/>
+    <item drawable="adaway"/>
+    <item drawable="amazon_appstore"/>
+    <item drawable="authenticator"/>
+    <item drawable="assistant"/>
+    <item drawable="home"/>
+    <item drawable="google_one"/>
+    <item drawable="earth"/>
+    <item drawable="googledrive_dym"/>
+    <item drawable="calculator_dym"/>
+    <item drawable="reddit"/>
+
 </resources>
