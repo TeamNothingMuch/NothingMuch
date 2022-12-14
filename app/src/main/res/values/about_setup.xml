@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <item>https://raw.githubusercontent.com/lazrdev/NothingMuch/master/profile/xelxen.jpg</item>
+        <item>https://raw.githubusercontent.com/lazrdev/NothingMuch/master/profile/lazrdev.jpg</item>
+        <item>https://raw.githubusercontent.com/lazrdev/NothingMuch/master/profile/qirkl.jpg</item>
     </string-array>
 
     <string-array name="credits_titles">
-        <item>Your Name</item>
-        <item>Another Name</item>
+        <item>XelXen</item>
+        <item>lazrdev</item>
+        <item>Qirkly</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Details of first credited person</item>
-        <item>Details of another credited person</item>
+        <item>Designer</item>
+        <item>App Dev, Designer</item>
+        <item>Designer</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Google+|Instagram</item>
-        <item>Facebook|Website|Twitter</item>
+        <item>Telegram</item>
+        <item>Telegram</item>
+        <item>Telegram</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
-        <item>https://facebook.com/|https://jahir.dev/|https://twitter.com/jahirfiquitiva</item>
+        <item>https://t.me/XelXen</item>
+        <item>https://t.me/lazrdev</item>
+        <item>https://t.me/qirkl</item>
     </string-array>
 </resources>

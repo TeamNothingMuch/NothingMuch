@@ -12,13 +12,15 @@
         android:id="@+id/request_item"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
         android:clipToPadding="false"
         android:gravity="center_vertical"
+        android:background="@drawable/background_square"
         android:orientation="horizontal"
-        android:paddingTop="4dp"
-        android:paddingBottom="4dp">
+        android:paddingTop="0dp"
+        android:layout_marginBottom="16dp"
+        android:paddingBottom="0dp">
 
         <dev.jahir.kuper.ui.widgets.SquaredImageView
             android:id="@+id/icon"
@@ -42,6 +44,7 @@
             android:ellipsize="end"
             android:gravity="center_vertical"
             android:maxLines="1"
+            android:paddingStart="0dp"
             android:padding="8dp"
             tools:text="App Name" />
 
@@ -51,7 +54,7 @@
             android:layout_height="wrap_content"
             android:clickable="false"
             android:focusable="false"
-            android:padding="8dp"
+            android:padding="16dp"
             app:buttonTint="@color/checkbox_button_tint"
             app:useMaterialThemeColors="true" />
 

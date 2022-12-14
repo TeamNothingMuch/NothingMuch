@@ -15,6 +15,7 @@
         <item name="itemIconTint">@drawable/bottom_navigation_states</item>
         <item name="itemTextColor">@drawable/bottom_navigation_states</item>
         <item name="labelVisibilityMode">labeled</item>
+        <item name="elevation">0dp</item>
     </style>
 
     <style name="Widget.Blueprint.NavigationView" parent="Widget.Frames.NavigationView">
@@ -22,6 +23,7 @@
         <item name="itemIconTint">@color/navigation_item_text_color</item>
         <item name="itemShapeFillColor">@color/navigation_item_bg_color</item>
         <item name="android:background">@color/background</item>
+        <item name="elevation">0dp</item>
     </style>
 
     <style name="Widget.Blueprint.NavigationView.Amoled" parent="Widget.Blueprint.NavigationView" />

@@ -19,16 +19,16 @@
         android:orderInCategory="300"
         android:title="@string/wallpapers"
         app:showAsAction="ifRoom" />
-    <item
-        android:id="@+id/apply"
-        android:icon="@drawable/ic_apply"
-        android:orderInCategory="400"
-        android:title="@string/apply"
-        app:showAsAction="ifRoom" />
+<!--    <item-->
+<!--        android:id="@+id/apply"-->
+<!--        android:icon="@drawable/ic_apply"-->
+<!--        android:orderInCategory="400"-->
+<!--        android:title="@string/apply"-->
+<!--        app:showAsAction="ifRoom" />-->
     <item
         android:id="@+id/request"
         android:icon="@drawable/ic_request"
-        android:orderInCategory="500"
+        android:orderInCategory="400"
         android:title="@string/request"
         app:showAsAction="ifRoom" />
 </menu>

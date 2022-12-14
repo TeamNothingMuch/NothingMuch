@@ -3,6 +3,7 @@ package dev.jahir.blueprint.ui.activities
 import android.os.Bundle
 import android.view.MenuItem
 import androidx.appcompat.widget.Toolbar
+import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.simplecityapps.recyclerview_fastscroll.views.FastScrollRecyclerView
 import dev.jahir.blueprint.R
@@ -18,6 +19,7 @@ import dev.jahir.frames.extensions.resources.hasContent
 import dev.jahir.frames.extensions.resources.lower
 import dev.jahir.frames.extensions.views.tint
 import dev.jahir.frames.ui.activities.base.BaseSearchableActivity
+
 
 @Suppress("RemoveExplicitTypeArguments")
 class HelpActivity : BaseSearchableActivity<Preferences>() {
@@ -54,9 +56,6 @@ class HelpActivity : BaseSearchableActivity<Preferences>() {
         val recyclerView: FastScrollRecyclerView? by findView(R.id.recycler_view)
         recyclerView?.tint()
         recyclerView?.layoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
-        recyclerView?.addItemDecoration(
-            GridDividerItemDecoration(this, LinearLayoutManager.VERTICAL)
-        )
         recyclerView?.adapter = adapter.apply { submitList(helpItems) }
         recyclerView?.setHasFixedSize(true)
     }

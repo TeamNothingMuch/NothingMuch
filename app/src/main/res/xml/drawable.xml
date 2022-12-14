@@ -16,7 +16,8 @@
     <item drawable="maps_dym"/>
     <item drawable="discord_dym"/>
     <item drawable="mdgram"/>
-    <item drawable="whatsapp_dym"/>
+    <item drawable="playstore_dym"/>
+    <item drawable="messages_dym"/>
     <item drawable="files_dym"/>
     <item drawable="contacts_dym"/>
     <item drawable="adaway"/>
@@ -29,5 +30,7 @@
     <item drawable="googledrive_dym"/>
     <item drawable="calculator_dym"/>
     <item drawable="reddit"/>
+    <item drawable="amazon"/>
+    <item drawable="whatsapp_dym"/>
 
 </resources>
