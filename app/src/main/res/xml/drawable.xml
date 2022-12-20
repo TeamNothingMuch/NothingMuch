@@ -32,5 +32,6 @@
     <item drawable="reddit"/>
     <item drawable="amazon"/>
     <item drawable="whatsapp_dym"/>
+    <item drawable="browser_dym"/>
 
 </resources>

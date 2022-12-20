@@ -77,9 +77,9 @@
 <!--    <item component="ComponentInfo{com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity}" drawable="calendar_dym" />-->
 <!--    <item component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.splashpic.SplashActivity}" drawable="calendar_dym" />-->
 <!--    <item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar_dym" />-->
-<!--    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser_dym" />-->
-<!--    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="browser_dym" />-->
-<!--    <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser_dym" />
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="browser_dym" />
+    <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser_dym" />
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages_dym" />
 <!--    <item component="ComponentInfo{com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity}" drawable="google_news" />-->
 <!--    <item component="ComponentInfo{com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewWidgetConfigurationActivity}" drawable="google_news" />-->
@@ -287,7 +287,7 @@
     <item component="ComponentInfo{com.vlingo.midas/com.vlingo.midas.gui.ConversationbackgroundActivity}" drawable="recorder_dym" />
     <item component="ComponentInfo{com.meizu.voiceassistant/com.meizu.voiceassistant.MainActivity}" drawable="recorder_dym" />
     <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="recorder_dym" />
-<!--    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{com.evernote/com.evernote.LauncherActivity}" drawable="evernote" />-->
 <!--    <item component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}" drawable="evernote" />-->
 <!--    <item component="ComponentInfo{com.evernote/com.evernote.ui.LaunchActivity}" drawable="evernote" />-->
@@ -626,7 +626,7 @@
 <!--    <item component="ComponentInfo{com.apalon.weatherlive/com.apalon.weatherlive.activity.ActivityMain}" drawable="weather_dym" />-->
 <!--    <item component="ComponentInfo{com.atmos.daxappUI/com.atmos.daxappUI.MainActivity}" drawable="dolby_atmos" />-->
 <!--    <item component="ComponentInfo{com.BS_Pias.twentynine/com.unity3d.player.UnityPlayerActivity}" drawable="solitaire_dym" />-->
-<!--    <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera_dym" />-->
 <!--    <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="dspmanager_dym" />-->
 <!--    <item component="ComponentInfo{com.mediatek.FMRadio/com.mediatek.FMRadio.FMRadioActivity}" drawable="radio_dym" />-->
@@ -1119,7 +1119,7 @@
 <!--    <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="pushbullet" />-->
 <!--    <item component="ComponentInfo{com.microsoft.office.lync15/com.microsoft.office.sfb.common.ui.splash.EntryPoint}" drawable="skype_for_business" />-->
 <!--    <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze_dym" />-->
-<!--    <item component="ComponentInfo{acr.browser.barebones/acr.browser.lightning.MainActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{acr.browser.barebones/acr.browser.lightning.MainActivity}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{com.cricbuzz.android/com.cricbuzz.android.lithium.app.view.activity.NyitoActivity}" drawable="cricbuzz" />-->
 <!--    <item component="ComponentInfo{com.jio.media.jiobeats/com.jio.media.mobile.apps.jiobeats.splash.SplashScreen}" drawable="jiomusic" />-->
 <!--    <item component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}" drawable="music_dym" />-->
@@ -1308,7 +1308,7 @@
 <!--    <item component="ComponentInfo{com.quizup.core/com.quizup.ui.client.activity.MainActivity}" drawable="quizup" />-->
 <!--    <item component="ComponentInfo{com.weather.Weather/com.weather.Weather.app.SplashScreenActivity}" drawable="weather_dym" />-->
 <!--    <item component="ComponentInfo{xsoftstudio.cpu.identifier.pro/com.xsoftstudio.androtics.MainActivity}" drawable="cpu_identifier_pro" />-->
-<!--    <item component="ComponentInfo{de.baumann.browser1/de.baumann.browser.Activity.BrowserActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{de.baumann.browser1/de.baumann.browser.Activity.BrowserActivity}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{com.stealthcopter.portdroid/com.stealthcopter.portdroid.activities.StartActivity}" drawable="portdroid" />-->
 <!--    <item component="ComponentInfo{com.opera.mini.native.beta/com.opera.mini.android.Browser}" drawable="opera_mini_beta" />-->
 <!--    <item component="ComponentInfo{pt.webeffect.easycallconfirmation/pt.webeffect.easycallconfirmation.MainActivity}" drawable="easy_call_confirmation" />-->
@@ -1392,7 +1392,7 @@
 <!--    <item component="ComponentInfo{com.andriensis.iconsumi/com.andriensis.iconsumi.SplashActivity}" drawable="i_consumi" />-->
 <!--    <item component="ComponentInfo{com.facebook.creatorapp/com.facebook.creatorapp.login.CreatorAppNuxPreLoginActivity}" drawable="creator" />-->
 <!--    <item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />-->
-<!--    <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{in.zhaoj.shadowsocksrr/com.github.shadowsocks.Shadowsocks}" drawable="ssrr" />-->
 <!--    <item component="ComponentInfo{vk.sova/vk.sova.MainActivity}" drawable="vk_sova_dym" />-->
 <!--    <item component="ComponentInfo{com.freevpn.master/com.free_vpn.app.view.SplashActivity}" drawable="vpn_master" />-->
@@ -1512,7 +1512,7 @@
 <!--    <item component="ComponentInfo{cn.jiguang.gp/cn.jiguang.gp.activities.SplashActivity}" drawable="vpn" />-->
     <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone_dym" />
 <!--    <item component="ComponentInfo{hanjie.app.pureweather/hanjie.app.pureweather.ui.HomeActivity}" drawable="pureweather" />-->
-<!--    <item component="ComponentInfo{com.android.browser/com.UCMobile.main.UCMobile}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.android.browser/com.UCMobile.main.UCMobile}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{com.UCMobile/com.UCMobile.main.UCMobile}" drawable="uc_browser" />-->
 <!--    <item component="ComponentInfo{com.tutorial.personal.androidstudiopro/com.tutorial.personal.androidstudiopro.MainActivity}" drawable="android_studio_pro" />-->
 <!--    <item component="ComponentInfo{com.lenovo.anyshare/com.lenovo.anyshare.ApMainActivity}" drawable="shareit" />-->
@@ -1559,12 +1559,12 @@
 <!--    <item component="ComponentInfo{com.fmwhatsapp/com.fmwhatsapp.0}" drawable="fmwhatsapp" />-->
 <!--    <item component="ComponentInfo{com.naman14.timberx/com.naman14.timberx.ui.activities.MainActivity}" drawable="timberx" />-->
 <!--    <item component="ComponentInfo{com.bryancandi.android.uituner/com.bryancandi.android.uituner.MainActivity}" drawable="ui_tuner" />-->
-<!--    <item component="ComponentInfo{com.pixeldust.browser/com.pixeldust.browser.MainActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.pixeldust.browser/com.pixeldust.browser.MainActivity}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}" drawable="dolphin_emulator" />-->
 <!--    <item component="ComponentInfo{com.afollestad.mnmlscreenrecord/com.afollestad.mnmlscreenrecord.ui.main.MainActivity}" drawable="mnml_screen_recorder" />-->
 <!--    <item component="ComponentInfo{com.aisense.otter/com.aisense.otter.ui.activity.SplashActivity}" drawable="otter" />-->
 <!--    <item component="ComponentInfo{com.softspb.tv.mts/com.softspb.mts.MtsEulaActivity}" drawable="mts_tv" />-->
-<!--    <item component="ComponentInfo{com.android.browser/com.opera.Opera}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.android.browser/com.opera.Opera}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{com.coloros.backuprestore/com.coloros.backuprestore.activity.BootActivity}" drawable="backup_and_restore" />-->
 <!--    <item component="ComponentInfo{com.coloros.safecenter/com.coloros.safecenter.SecureSafeMainActivity}" drawable="security_center" />-->
 <!--    <item component="ComponentInfo{de.baumann.browser/de.baumann.browser.Activity.BrowserActivity}" drawable="foss_browser" />-->
@@ -1682,7 +1682,7 @@
 <!--    <item component="ComponentInfo{com.android.notes/com.android.notes.Notes}" drawable="notes" />-->
 <!--    <item component="ComponentInfo{com.vivo.email/com.vivo.email.activity.Welcome}" drawable="email_dym" />-->
     <item component="ComponentInfo{com.android.bbkcalculator/com.android.bbkcalculator.Calculator}" drawable="calculator_dym" />
-<!--    <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{com.android.bbksoundrecorder/com.android.activity.SoundRecorder}" drawable="recorder_3" />-->
 <!--    <item component="ComponentInfo{com.android.VideoPlayer/com.vivo.video.app.splash.SplashActivity}" drawable="video_player" />-->
 <!--    <item component="ComponentInfo{com.vivo.weather/com.vivo.weather.WeatherMain}" drawable="weather_dym" />-->
@@ -1735,7 +1735,7 @@
 <!--    <item component="ComponentInfo{com.vtosters.android/com.vtosters.android.MainActivity}" drawable="vtosters_dym" />-->
 <!--    <item component="ComponentInfo{com.samsung.android.authfw/com.samsung.android.authfw.samsungpass.launcher.EntryLauncher}" drawable="samsung_pass" />-->
 <!--    <item component="ComponentInfo{com.lenovo.icontrol/com.tiqiaa.icontrol.WelcomeActivity}" drawable="zazaremote" />-->
-<!--    <item component="ComponentInfo{com.nearme.browser/com.android.browser.BrowserActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.nearme.browser/com.android.browser.BrowserActivity}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{com.instagram.lite/com.instagram.lite.IgLiteActivity}" drawable="instagram_lite" />-->
     <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files_dym" />
 <!--    <item component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}" drawable="activity_launcher" />-->
@@ -2336,7 +2336,7 @@
 <!--    <item component="ComponentInfo{com.bewakoof.bewakoof/com.bewakoof.bewakoof.MainActivity}" drawable="bewakoof" />-->
 <!--    <item component="ComponentInfo{videostatusmaker.videostatus.boo/com.example.videomaster.activity.SplashActivity}" drawable="boo" />-->
 <!--    <item component="ComponentInfo{com.mind.quiz.brain.out/com.eyewind.tj.brain.MainActivity}" drawable="brain_out" />-->
-<!--    <item component="ComponentInfo{com.heytap.browser/com.android.browser.BrowserActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.heytap.browser/com.android.browser.BrowserActivity}" drawable="browser_dym" />
     <item component="ComponentInfo{com.coloros.calculator/com.android.calculator2.Calculator}" drawable="calculator_dym" />
     <item component="ComponentInfo{com.calculatorsin.foz/com.calculatorsin.foz.ScientificActivity}" drawable="calculator_dym" />
 <!--    <item component="ComponentInfo{com.realmecomm.app/com.android.realme2.start.StartActivity}" drawable="community_realme" />-->
@@ -2562,7 +2562,7 @@
 <!--    <item component="ComponentInfo{pl.neptis.yanosik.mobi.android/pl.neptis.yanosik.mobi.android.common.ui.activities.launcher.LauncherActivity}" drawable="yanosik" />-->
 <!--    <item component="ComponentInfo{com.paolovalerdi.abbey/com.paolovalerdi.abbey.ui.activity.MainActivity}" drawable="abbey" />-->
 <!--    <item component="ComponentInfo{com.farmerbb.appnotifier/com.farmerbb.appnotifier.ui.MainActivity}" drawable="appnotifier" />-->
-<!--    <item component="ComponentInfo{com.havoc.browser/com.havoc.browser.MainActivity}" drawable="browser_dym" />-->
+    <item component="ComponentInfo{com.havoc.browser/com.havoc.browser.MainActivity}" drawable="browser_dym" />
 <!--    <item component="ComponentInfo{com.geekofia.cacheaway/com.geekofia.cacheaway.Activities.MainActivity}" drawable="cacheaway" />-->
 <!--    <item component="ComponentInfo{org.mozilla.fenix.nightly/org.mozilla.fenix.nightly.App}" drawable="firefox_nightly" />-->
 <!--    <item component="ComponentInfo{com.footej.camera2/com.footej.camera.CameraActivity}" drawable="footej_camera_2" />-->
