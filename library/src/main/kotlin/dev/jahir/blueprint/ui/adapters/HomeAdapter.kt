@@ -163,7 +163,7 @@ class HomeAdapter(
     override fun onBindFooterViewHolder(holder: SectionedViewHolder?, section: Int) {}
     override fun getItemCount(section: Int): Int = when (section) {
         ICONS_PREVIEW_SECTION -> 1
-        ACTIONS_SECTION -> if (showActions) 1 else 0
+        ACTIONS_SECTION -> if (showActions) 0 else 0 //change first number to 1 to enable
         OVERVIEW_SECTION -> if (showOverview) counters.size else 0
         MORE_APPS_SECTION -> appItems.size
         USEFUL_LINKS_SECTION -> linkItems.size
