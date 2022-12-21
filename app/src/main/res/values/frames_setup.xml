@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
-        <string name="json_url">https://raw.githubusercontent.com/lazrdev/NothingMuch/master/wallpapers/wallpapers.json</string>
+        <string name="json_url">https://raw.githubusercontent.com/TeamNothingMuch/NothingMuch/master/wallpapers/wallpapers.json</string>
 
     <!--
     Enable immediate download
