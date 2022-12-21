@@ -19,8 +19,8 @@
         Set the bool below to true if you want your static picture to be set by default, instead
         of user's wallpaper. Otherwise, leave it as false.
     -->
-    <string name="static_icons_preview_picture"></string>
-    <bool name="static_icons_preview_picture_by_default">false</bool>
+    <string name="static_icons_preview_picture">glassrods</string>
+    <bool name="static_icons_preview_picture_by_default">true</bool>
 
     <!--
         Do you want the app to read the icons from res/xml/drawable.xml ? (true)

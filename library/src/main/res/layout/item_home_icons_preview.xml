@@ -18,7 +18,7 @@
     <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/wallpaper"
         android:layout_width="match_parent"
-        android:layout_height="228dp"
+        android:layout_height="350dp"
         android:layout_gravity="center"
         android:clickable="false"
         android:focusable="false"

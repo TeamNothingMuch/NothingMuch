@@ -43,18 +43,18 @@
     <color name="amoledThemePrimaryDark">#000000</color>
     <color name="amoledThemeOnPrimary">#ffffff</color>
 
-    <color name="amoledThemeAccent">#64ffda</color>
+    <color name="amoledThemeAccent">#D71823</color>
     <color name="amoledThemeOnAccent">#de000000</color>
 
-    <color name="amoledThemeSurface">#212121</color>
+    <color name="amoledThemeSurface">#000000</color>
     <color name="amoledThemeOnSurface">#ffffff</color>
-    <color name="amoledThemeBackground">#101010</color>
+    <color name="amoledThemeBackground">#000000</color>
 
     <color name="amoledThemeOnSurfaceVariant">@color/darkThemeOnSurfaceVariant</color>
     <color name="amoledThemeOnBackground">@color/darkThemeOnBackground</color>
 
     <color name="amoledThemeSnackbarBackgroundColor">#ffffff</color>
     <color name="amoledThemeSnackbarTextColor">#de000000</color>
-    <color name="amoledThemeSnackbarButtonColor">#3c9983</color>
+    <color name="amoledThemeSnackbarButtonColor">#D71823</color>
 
 </resources>
