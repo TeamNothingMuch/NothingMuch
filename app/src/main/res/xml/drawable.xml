@@ -33,5 +33,6 @@
     <item drawable="amazon"/>
     <item drawable="whatsapp_dym"/>
     <item drawable="browser_dym"/>
+    <item drawable="instagram_dym"/>
 
 </resources>

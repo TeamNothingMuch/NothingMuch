@@ -175,7 +175,7 @@
 <!--    <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal2_dym" />-->
 <!--    <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="terminal2_dym" />-->
 <!--    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="google_news" />-->
-<!--    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram_dym" />-->
+    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram_dym" />
 <!--    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity1}" drawable="kartusim_dym" />-->
 <!--    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="kartusim_dym" />-->
 <!--    <item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity}" drawable="kartusim_dym" />-->
@@ -1855,7 +1855,7 @@
 <!--    <item component="ComponentInfo{com.appsisle.developerassistant/com.jw.devassist.ui.screens.main.MainActivity}" drawable="developer_assistant" />-->
 <!--    <item component="ComponentInfo{com.dexplorer/com.dexplorer.activities.ApplicationSelectionActivity}" drawable="dexplorer" />-->
 <!--    <item component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity}" drawable="google_recorder" />-->
-<!--    <item component="ComponentInfo{com.instaero.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram_dym" />-->
+    <item component="ComponentInfo{com.instaero.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram_dym" />
 <!--    <item component="ComponentInfo{com.huawei.ridemode/com.huawei.ridemode.RideModeStartActivity}" drawable="modo_viaje" />-->
 <!--    <item component="ComponentInfo{air.com.adobe.pstouchphone/air.com.adobe.pstouchphone.AppEntry}" drawable="ps_cc" />-->
 <!--    <item component="ComponentInfo{com.snowcorp.stickerly.android/com.snowcorp.stickerly.android.main.ui.LauncherEntryActivity}" drawable="sticker_ly" />-->
@@ -1946,7 +1946,7 @@
 <!--    <item component="ComponentInfo{com.gmail.heagoo.apkeditor.pro/com.projectmaterial.activities.SplashActivity}" drawable="apk_editor_dym" />-->
 <!--    <item component="ComponentInfo{com.google.android.GCMods5/com.android.camera.CameraLauncher}" drawable="camera_dym" />-->
 <!--    <item component="ComponentInfo{com.franco.graphice/a.b}" drawable="graphix" />-->
-<!--    <item component="ComponentInfo{com.instaero.android/com.instaero.android.activity.MainTabActivity}" drawable="instagram_dym" />-->
+    <item component="ComponentInfo{com.instaero.android/com.instaero.android.activity.MainTabActivity}" drawable="instagram_dym" />
 <!--    <item component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}" drawable="math" />-->
 <!--    <item component="ComponentInfo{com.infinitygames.loopenergy/com.unity3d.player.UnityPlayerActivity}" drawable="loopenergy" />-->
     <item component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Launcher}" drawable="amazon_appstore" />
@@ -2329,7 +2329,7 @@
 <!--    <item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity}" drawable="uber_eats" />-->
 <!--    <item component="ComponentInfo{com.applisto.appcloner/com.applisto.appcloner.activity.StartActivity}" drawable="app_cloner" />-->
 <!--    <item component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main}" drawable="colornote" />-->
-<!--    <item component="ComponentInfo{com.instagram.androie/com.instagram.androie.activity.MainTabActivity}" drawable="instagram_dym" />-->
+    <item component="ComponentInfo{com.instagram.androie/com.instagram.androie.activity.MainTabActivity}" drawable="instagram_dym" />
 <!--    <item component="ComponentInfo{keepass2android.keepass2android_nonet/md5b85ab5ea2545156b0f09600c184a5178.KeePass}" drawable="keepass2android_offline" />-->
 <!--    <item component="ComponentInfo{com.teeonsoft.ztorrentpro/com.teeonsoft.zdownload.MainActivity}" drawable="zetatorrent_pro" />-->
 <!--    <item component="ComponentInfo{dbeats.app.mp3.merger.trimmer.mixer.converter.speedchanger.mp3editor/dbeats.app.mp3.merger.trimmer.mixer.converter.speedchanger.mp3editor.StartupActivity}" drawable="best_mp3_editor" />-->
@@ -3752,7 +3752,7 @@
 <!--    <item component="ComponentInfo{studio14.application.hera/com.candybar.dev.activities.SplashActivity}" drawable="hera" />-->
 <!--    <item component="ComponentInfo{cs14.pixelperfect.iconpack.heradark/com.candybar.dev.activities.SplashActivity}" drawable="hera_dark" />-->
 <!--    <item component="ComponentInfo{xyz.easypro.httpcustom/team.dev.epro.apkcustom.MainActivity}" drawable="http_custom" />-->
-<!--    <item component="ComponentInfo{com.aeroinsta.android/com.aeroinsta.android.activity.MainTabActivity}" drawable="instagram_dym" />-->
+    <item component="ComponentInfo{com.aeroinsta.android/com.aeroinsta.android.activity.MainTabActivity}" drawable="instagram_dym" />
 <!--    <item component="ComponentInfo{com.github.devnied.emvnfccard/nfc.credit.card.reader.activity.HomeActivity}" drawable="lector_de_tarjetas" />-->
 <!--    <item component="ComponentInfo{app.namso_gen.spacehowen/app.namso_gen.spacehowen.SplashActivity}" drawable="namso_gen" />-->
 <!--    <item component="ComponentInfo{rk.android.app.notificationhistory/rk.android.app.notificationhistory.common.SplashScreenActivity}" drawable="notification_manager" />-->
@@ -7854,7 +7854,7 @@
 <!--    <item component="ComponentInfo{org.orangenose.games/org.orangenose.games.Angriness2}" drawable="hardest_game_ever_2" />-->
 <!--    <item component="ComponentInfo{com.hatla2ee.hatla2ee_egypt/com.hatla2ee.hatla2ee_egypt.MainActivity}" drawable="hatla2ee" />-->
 <!--    <item component="ComponentInfo{com.hitchhiker.app/com.hitchhiker.app.ui.account.splash.SplashActivity}" drawable="hitchhiker" />-->
-<!--    <item component="ComponentInfo{org.chromium.webapk.ab3a0e6272b1484c9_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="instagram_dym" />-->
+    <item component="ComponentInfo{org.chromium.webapk.ab3a0e6272b1484c9_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="instagram_dym" />
 <!--    <item component="ComponentInfo{com.jumia.android/com.mobile.splash.SplashScreenActivity}" drawable="jumia" />-->
 <!--    <item component="ComponentInfo{com.kfc.egypt/com.americana.me.ui.onboarding.splash.SplashActivity}" drawable="kfc" />-->
 <!--    <item component="ComponentInfo{com.landmarkgroup.maxstores/com.landmarkgroupreactapps.SplashActivity}" drawable="max" />-->
@@ -9388,7 +9388,7 @@
 <!--    <item component="ComponentInfo{com.marcotls.icons.h2o.free/com.marcotls.icons.h2o.free.MainActivity}" drawable="h2o_icon_pack" />-->
 <!--    <item component="ComponentInfo{hukkwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity}" drawable="huk_kwgt" />-->
 <!--    <item component="ComponentInfo{com.BladeXDesigns.Ikon/com.BladeXDesigns.Ikon.activities.SplashActivity}" drawable="ikon_iconpack" />-->
-<!--    <item component="ComponentInfo{org.chromium.webapk.af4c76c90c7eb6eac_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="instagram_dym" />-->
+    <item component="ComponentInfo{org.chromium.webapk.af4c76c90c7eb6eac_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="instagram_dym" />
 <!--    <item component="ComponentInfo{com.hp.impulse.sprocket/com.hp.impulse.sprocket.activity.SplashActivity}" drawable="sprocket" />-->
 <!--    <item component="ComponentInfo{com.verizon.ccid.projectverify/com.xcijv.projectverify.splash.SplashActivity}" drawable="zenkey" />-->
 <!--    <item component="ComponentInfo{com.mi.calendar.agenda/com.icalendar.os.activity.SplashScreenActivity}" drawable="calendar_dym" />-->
@@ -10591,7 +10591,7 @@
 <!--    <item component="ComponentInfo{com.anghami/com.anghami.activities.SplashActivity_}" drawable="anghami" />-->
 <!--    <item component="ComponentInfo{com.hybeim.intheseom/com.unity3d.player.UnityPlayerActivity}" drawable="bts_island" />-->
 <!--    <item component="ComponentInfo{com.kongregate.mobile.burritobison3.google/com.unity3d.player.UnityPlayerActivity}" drawable="burrito_bison" />-->
-<!--    <item component="ComponentInfo{com.instapro2.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram_dym" />-->
+    <item component="ComponentInfo{com.instapro2.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram_dym" />
 <!--    <item component="ComponentInfo{games.lightheart.mrautofire/com.unity3d.player.UnityPlayerActivity}" drawable="mr_autofire" />-->
 <!--    <item component="ComponentInfo{com.onlyoffice.documents/app.editors.manager.ui.activities.main.OnBoardingActivity}" drawable="onlyoffice_documents" />-->
 <!--    <item component="ComponentInfo{com.easilydo.onmail/com.easilydo.onmail.MainActivity}" drawable="onmail" />-->
