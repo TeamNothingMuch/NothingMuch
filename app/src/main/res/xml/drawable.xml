@@ -6,7 +6,6 @@
     <item drawable="chrome_dym"/>
     <item drawable="google_dym"/>
     <item drawable="telegram_dym"/>
-    <item drawable="telegram_x_dym"/>
     <item drawable="recorder_dym"/>
     <item drawable="youtube_dym"/>
     <item drawable="youtube_music_dym"/>
@@ -34,5 +33,7 @@
     <item drawable="whatsapp_dym"/>
     <item drawable="browser_dym"/>
     <item drawable="instagram_dym"/>
-
+    <item drawable="libretube"/>
+    <item drawable="terminal2_dym"/>
+    <item drawable="material_terminal"/>
 </resources>

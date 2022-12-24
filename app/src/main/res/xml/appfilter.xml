@@ -172,8 +172,8 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube_dym" />
 <!--    <item component="ComponentInfo{com.opera.mini.android/com.opera.mini.android.Browser}" drawable="operamini" />-->
 <!--    <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera" />-->
-<!--    <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal2_dym" />-->
-<!--    <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="terminal2_dym" />-->
+    <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal2_dym" />
+    <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="terminal2_dym" />
 <!--    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="google_news" />-->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram_dym" />
 <!--    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity1}" drawable="kartusim_dym" />-->
@@ -729,7 +729,7 @@
 <!--    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="radio_dym" />-->
 <!--    <item component="ComponentInfo{ro.vodafone.mcare.android/ro.vodafone.mcare.android.ui.activities.SplashScreenActivity}" drawable="my_vodafone" />-->
 <!--    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />-->
-    <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x_dym" />
+    <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_dym" />
 <!--    <item component="ComponentInfo{org.kustom.apkmaker/org.kustom.apkmaker.ProjectListActivity}" drawable="kapk" />-->
 <!--    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}" drawable="radio_dym" />-->
 <!--    <item component="ComponentInfo{com.huawei.android.totemweatherapp/com.huawei.android.totemweatherapp.WeatherHome}" drawable="weather_dym" />-->
@@ -1113,7 +1113,7 @@
 <!--    <item component="ComponentInfo{com.ryansteckler.nlpunbounce/com.ryansteckler.nlpunbounce.Settings-Alias}" drawable="amplify" />-->
 <!--    <item component="ComponentInfo{com.asksven.betterbatterystats/com.asksven.betterbatterystats.StatsActivity}" drawable="betterbatterystats" />-->
 <!--    <item component="ComponentInfo{com.vmware.view.client.android/com.vmware.view.client.android.VMwareViewPcoipActivity}" drawable="horizon" />-->
-<!--    <item component="ComponentInfo{yarolegovich.materialterminal/yarolegovich.materialterminal.Term}" drawable="material_terminal" />-->
+    <item component="ComponentInfo{yarolegovich.materialterminal/yarolegovich.materialterminal.Term}" drawable="material_terminal" />
 <!--    <item component="ComponentInfo{com.taxsee.taxsee/com.taxsee.taxsee.ui.activities.SplashScreen}" drawable="maxim_dym" />-->
 <!--    <item component="ComponentInfo{com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity}" drawable="miwi_fi" />-->
 <!--    <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="pushbullet" />-->
@@ -8124,7 +8124,8 @@
 <!--    <item component="ComponentInfo{com.cakewallet.cake_wallet/com.cakewallet.cake_wallet.MainActivity}" drawable="cake_wallet" />-->
 <!--    <item component="ComponentInfo{com.lagradost.cloudstream3.prerelease/com.lagradost.cloudstream3.MainActivity}" drawable="cloudstream" />-->
 <!--    <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" />-->
-<!--    <item component="ComponentInfo{com.github.libretube/com.github.libretube.MainActivity}" drawable="libretube" />-->
+    <item component="ComponentInfo{com.github.libretube/com.github.libretube.ui.activities.MainActivity}" drawable="libretube" />
+    <item component="ComponentInfo{com.github.libretube.debug/com.github.libretube.ui.activities.MainActivity}" drawable="libretube" />
 <!--    <item component="ComponentInfo{com.mobile.asb/com.q2.app.core.ui.LauncherActivity}" drawable="asb_hawaii" />-->
 <!--    <item component="ComponentInfo{com.appstronautstudios.pooplog/com.appstronautstudios.pooplog.activities.MainActivity}" drawable="poop_tracker" />-->
 <!--    <item component="ComponentInfo{com.mobispector.bustimes/com.mobispector.bustimes.SplashActivity}" drawable="bus_times" />-->
