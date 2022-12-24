@@ -186,8 +186,8 @@
 <!--    <item component="ComponentInfo{com.android.stk/com.android.stk.OppoStkSelection}" drawable="kartusim_dym" />-->
 <!--    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="kartusim_dym" />-->
 <!--    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingle}" drawable="kartusim_dym" />-->
-<!--    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}" drawable="googletranslate_dym" />-->
-<!--    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="googletranslate_dym" />-->
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}" drawable="googletranslate_dym" />
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="googletranslate_dym" />
 <!--    <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="playgames_dym" />-->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="googledrive_dym" />
 <!--    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="googledocs_dym" />-->
