@@ -14,7 +14,7 @@ object Versions {
     // App
     const val minSdk = 21
     const val targetSdk = 32
-    const val buildTools = "32.0.0"
+    const val buildTools = "33.0.1"
 
     // Kuper
     const val kuper = "2.4.0"
