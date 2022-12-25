@@ -37,4 +37,8 @@
     <item drawable="terminal2_dym"/>
     <item drawable="material_terminal"/>
     <item drawable="googletranslate_dym"/>
+    <item drawable="sim_toolkit"/>
+    <item drawable="googlewallpapers_dym"/>
+    <item drawable="lsposed"/>
+    <item drawable="googlekeep_dym"/>
 </resources>
