@@ -41,4 +41,27 @@
     <item drawable="googlewallpapers_dym"/>
     <item drawable="lsposed"/>
     <item drawable="googlekeep_dym"/>
+    <item drawable="cmthemes"/>
+    <item drawable="themes"/>
+    <item drawable="notes"/>
+    <item drawable="thememanager"/>
+    <item drawable="theme_store"/>
+    <item drawable="miui_theme_editor"/>
+    <item drawable="radio_dym"/>
+    <item drawable="instagram_lite"/>
+    <item drawable="meet"/>
+    <item drawable="android_auto"/>
+    <item drawable="firefox_dym"/>
+    <item drawable="vlc" />
+    <item drawable="one_drive" />
+    <item drawable="office" />
+    <item drawable="google_fit"/>
+    <item drawable="clock_dym"/>
+    <item drawable="gallery_dym"/>
+    <item drawable="weather_dym"/>
+    <item drawable="calendar_dym"/>
+    <item drawable="snapseed_dym"/>
+    <item drawable="spotify_dym"/>
+    <item drawable="classroom"/>
+    <item drawable="magisk_manager_dym"/>
 </resources>
