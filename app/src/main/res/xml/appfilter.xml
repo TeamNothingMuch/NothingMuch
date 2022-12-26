@@ -797,7 +797,7 @@
 <!--    <item component="ComponentInfo{kellinwood.zipsigner2/kellinwood.zipsigner2.ZipPickerActivity}" drawable="zipsigner_dym" />-->
 <!--    <item component="ComponentInfo{dkc.video.hdbox/com.dkc.fs.ui.activities.SplashActivity}" drawable="hd_videobox" />-->
 <!--    <item component="ComponentInfo{com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity}" drawable="screencast_dym" />-->
-<!--    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="facebook_messenger_dym" />-->
+    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="facebook_messenger_dym" />
 <!--    <item component="ComponentInfo{com.samsung.android.samsungpass/com.samsung.android.samsungpass.launcher.EntryLauncher}" drawable="samsung_pass" />-->
 <!--    <item component="ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}" drawable="samsung_pay" />-->
 <!--    <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="galaxy_apps" />-->
