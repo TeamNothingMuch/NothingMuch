@@ -2036,7 +2036,7 @@
 <!--    <item component="ComponentInfo{com.acmeaom.android.myradarpro/com.acmeaom.android.myradar.app.activity.LaunchActivity}" drawable="myradar" />-->
 <!--    <item component="ComponentInfo{com.nhl.gc1112.free/com.nhl.gc1112.free.appstart.viewControllers.activities.SplashActivity}" drawable="nhl" />-->
 <!--    <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="play_books" />-->
-<!--    <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="prime_video" />-->
+    <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="prime_video" />
 <!--    <item component="ComponentInfo{com.rci.rcimemberapp.vacationexchange/com.rci.rcimemberapp.vacationexchange.MainActivity}" drawable="rci_member_app" />-->
 <!--    <item component="ComponentInfo{com.thomsonreuters.reuters/com.thomsonreuters.reuters.activities.SplashActivity}" drawable="reuters" />-->
 <!--    <item component="ComponentInfo{com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity}" drawable="samsung_flow" />-->
@@ -2252,7 +2252,7 @@
 <!--    <item component="ComponentInfo{net.mx17.overridedns/net.mx17.overridedns.MainActivity}" drawable="override_dns" />-->
 <!--    <item component="ComponentInfo{com.embermitre.pixolor.app/com.embermitre.pixolor.app.StartProjectionManagerActivity}" drawable="pixolor" />-->
 <!--    <item component="ComponentInfo{com.azefsw.purchasedapps/com.azefsw.purchasedapps.ui.startup.StartupActivity}" drawable="purchased_apps" />-->
-<!--    <item component="ComponentInfo{com.rhmsoft.edit.pro/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit" />-->
+    <item component="ComponentInfo{com.rhmsoft.edit.pro/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit" />
 <!--    <item component="ComponentInfo{com.sibche.aspardproject.app/com.persianswitch.app.activities.main.SplashScreenActivity}" drawable="aspardproject" />-->
 <!--    <item component="ComponentInfo{ir.mci.ecareapp/ir.mci.ecareapp.Activity.SplashActivity}" drawable="ecareapp" />-->
 <!--    <item component="ComponentInfo{com.ylmf.androidclient/com.main.partner.user.activity.LogActivity}" drawable="androidclient115" />-->
@@ -2613,7 +2613,7 @@
 <!--    <item component="ComponentInfo{yqtrack.app/yqtrack.app.ui.splash.SplashActivity}" drawable="track17" />-->
 <!--    <item component="ComponentInfo{com.banggood.client/com.banggood.client.Launcher}" drawable="banggood" />-->
 <!--    <item component="ComponentInfo{cz.mafra.jizdnirady/cz.mafra.jizdnirady.activity.SplashActivity}" drawable="idos" />-->
-<!--    <item component="ComponentInfo{com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit" />-->
+    <item component="ComponentInfo{com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit" />
 <!--    <item component="ComponentInfo{com.tuya.smartlife/com.smart.TuyaSplashActivity}" drawable="smart_life" />-->
 <!--    <item component="ComponentInfo{cz.cni.computer/cz.cni.computer.MainActivity}" drawable="computer_cz" />-->
 <!--    <item component="ComponentInfo{tj.alif.mobi/tj.alif.mobi.home.HomeActivity}" drawable="alif_mobi" />-->
