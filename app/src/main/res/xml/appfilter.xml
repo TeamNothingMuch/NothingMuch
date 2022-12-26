@@ -361,11 +361,8 @@
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock_dym" />
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock_dym" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock_dym" />
-    <dynamic-clock defaultHour="10" defaultMinute="10" defaultSecond="30" drawable="clock_dym" hourLayerIndex="0" minuteLayerIndex="1" secondLayerIndex="2" />
-<!--    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="oneplus_clock_dym" />-->
-<!--    <dynamic-clock defaultHour="10" defaultMinute="10" defaultSecond="30" drawable="oneplus_clock_dym" hourLayerIndex="0" minuteLayerIndex="1" secondLayerIndex="2" />-->
-<!--    <item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="oppo_clock_dym" />-->
-<!--    <dynamic-clock defaultHour="10" defaultMinute="10" drawable="oppo_clock_dym" hourLayerIndex="0" minuteLayerIndex="1" secondLayerIndex="2" />-->
+    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="clock_dym" />
+    <item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="clock_dym" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmClock}" drawable="clock_dym" />
     <item component="ComponentInfo{com.zui.deskclock/com.zui.deskclock.DeskClock}" drawable="clock_dym" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="clock_dym" />
