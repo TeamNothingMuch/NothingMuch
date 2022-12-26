@@ -47,6 +47,10 @@
     <item drawable="thememanager"/>
     <item drawable="theme_store"/>
     <item drawable="miui_theme_editor"/>
+    <item drawable="onedotonedotonedotone"/>
+    <item drawable="dolby_atmos"/>
+    <item drawable="github"/>
+    <item drawable="facebook_dym"/>
     <item drawable="radio_dym"/>
     <item drawable="instagram_lite"/>
     <item drawable="meet"/>
@@ -73,5 +77,6 @@
     <item drawable="spotify_lite"/>
     <item drawable="music_alt"/>
     <item drawable="pinterest_dym"/>
+    <item drawable="minecraft"/>
     <item drawable="magisk_manager_dym"/>
 </resources>
