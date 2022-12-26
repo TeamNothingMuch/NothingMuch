@@ -63,5 +63,15 @@
     <item drawable="snapseed_dym"/>
     <item drawable="spotify_dym"/>
     <item drawable="classroom"/>
+    <item drawable="downloads_dym"/>
+    <item drawable="viber_dym"/>
+    <item drawable="fk_kernel_manager"/>
+    <item drawable="snapchat"/>
+    <item drawable="digital_wellbeing"/>
+    <item drawable="google_fi"/>
+    <item drawable="deezer"/>
+    <item drawable="spotify_lite"/>
+    <item drawable="music_alt"/>
+    <item drawable="pinterest_dym"/>
     <item drawable="magisk_manager_dym"/>
 </resources>
